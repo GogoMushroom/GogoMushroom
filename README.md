@@ -1,10 +1,12 @@
 <h1 align="center"><b>Hi! I'm a junior developer!</b></h1>
 <p align="center">
-My skills include java, spring, js, etc. and my skills are still expanding! <br>
-If you want to see my study records, please come in here.
+My skills include java, spring, js, etc. and they are still expanding! <br>
+If you want to see my records, please come in here<br>
 
 <br>
-
+ <a href="https://yoonyoonzzi.notion.site/YOON-0a4ac4b19b904ee98e440fb5eb267f8c"> Notion
+ <a href="https://www.instagram.com/nuoyz/"> Instagram
+ 
 </p>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
