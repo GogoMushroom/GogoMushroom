@@ -4,7 +4,7 @@ My skills include javaScript, react, node.js, mysql, mondoDB , etc. and they are
 If you want to see my records, please come in here<br>
 
 <br>
- <a href="https://yoonyoonzzi.notion.site/YOON-0a4ac4b19b904ee98e440fb5eb267f8c"> Notion
+ <a href="https://www.notion.so/yoonyoonzzi/5ec627a3fb4342f0b034d3cc7e02d843"> Notion
  <a href="https://www.instagram.com/nuoyz/"> Instagram
  
 </p>
