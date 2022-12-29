@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi! I'm a junior developer!</b></h1>
 <p align="center">
-My skills include java, spring, js, etc. and they are still expanding! <br>
+My skills include javaScript, react, node.js, mysql, mondoDB , etc. and they are still expanding! <br>
 If you want to see my records, please come in here<br>
 
 <br>
